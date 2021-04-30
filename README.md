@@ -1,4 +1,4 @@
-### Hi there 👋
+Hi
 
 <!--
 **2010david/2010david** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
